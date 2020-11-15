@@ -13,7 +13,7 @@
 ## 🔭 Careers
 - Research Engineer at VIRNECT (2019 - **PRESENT**)
 - Research Intern at Bohndiek Lab, Cavendish Laboratory, University of Cambridge, UK (2019)
-- Received a M.Res degree in Medical Robotics and Image-Guided Intervention at Imperial College London, UK (2017-2018)
+- Received a M.Res degree in Medical Robotics and Image-Guided Intervention at the Hamlyn Centre, Imperial College London, UK (2017-2018)
 - Received a B.Eng degree in Manufacturing and Mechanical Engineering at the University of Warwick (2014-2017)
 
 ## ⚡ Community Activities
