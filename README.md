@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hyunggi</h1>
 
-![profile_view_counter](https://komarev.com/ghpvc/?username=changh95)
-
 ## 🌱 Interests
 - **Simultaneous Localization and Mapping (SLAM)**
   - Visual-SLAM, Visual-inertial odometry, Visual-localization
@@ -26,6 +24,7 @@
 - LinkedIn: [Link](https://www.linkedin.com/in/hyunggi-chang/)
 - Facebook: [Link](https://www.facebook.com/harry.chang.982/)
 
+![profile_view_counter](https://komarev.com/ghpvc/?username=changh95)
 
 <!--
 **changh95/changh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
