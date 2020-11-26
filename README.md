@@ -18,7 +18,7 @@
 
 ## ⚡ Community Activities
 - Admin of a SLAM research community group: [**'We will be SLAM masters'**](https://open.kakao.com/o/g8T5kxLb)
-- Personal research blog (Korean): [**cv-learn blog**](cv-learn.com)
+- Personal research blog (Korean): [**cv-learn blog**](http://cv-learn.com)
 
 ## 📫 Contacts
 - LinkedIn: [Link](https://www.linkedin.com/in/hyunggi-chang/)
