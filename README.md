@@ -25,8 +25,6 @@
 - LinkedIn: [Link](https://www.linkedin.com/in/hyunggi-chang/)
 - Facebook: [Link](https://www.facebook.com/harry.chang.982/)
 
-![profile_view_counter](https://komarev.com/ghpvc/?username=changh95)
-
 <!--
 **changh95/changh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,3 +39,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![changh95's GitHub stats](https://github-readme-stats.vercel.app/api?username=changh95&count_private=true)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changh95&exclude_repo=changh95.github.io,changh95.github.io-legacyblog_source,changh95,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+![profile_view_counter](https://komarev.com/ghpvc/?username=changh95)
