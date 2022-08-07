@@ -2,7 +2,7 @@
 
 ## 🌱 Interests
 - **Simultaneous Localization and Mapping (SLAM)**
-  - Visual-SLAM, Visual-inertial odometry, Visual-localization
+  - Visual-SLAM, Visual-inertial odometry, Visual-localization, Semantic SLAM
 - **Computer Vision**
   - Object pose estimation, Visual tracking, Multiple view geometry
 - **Imaging**
