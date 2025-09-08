@@ -11,7 +11,7 @@
   - Graph processors, SIMD, RISC-V
 
 ## 🔭 Careers
-- Sr. Field Application Engineer at **Tenstorrent** (2025 - PRESENT)
+- Sr. Field Application Engineer at [**Tenstorrent**](https://github.com/tenstorrent) (2025 - PRESENT)
 - Algorithm Engineer at StradVision (2021 - 2025)
 - Algorithm Engineer at VIRNECT (2019 - 2021)
 - Research Intern at the Bohndiek Lab, Cavendish Laboratory, University of Cambridge (2019)
