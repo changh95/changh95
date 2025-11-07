@@ -19,7 +19,7 @@
 - B.Eng degree in Manufacturing and Mechanical Engineering at the University of Warwick (2014-2017)
 
 ## ⚡ Community Activities
-- Admin of a SLAM research community group: [**'Spatial AI KR'**](https://open.kakao.com/o/g8T5kxLb)
+- Admin of a Physical AI / SLAM research community group: [**'Physical AI KR'**](https://open.kakao.com/o/g8T5kxLb)
 - Personal research blog (Korean): [**cv-learn blog**](https://www.cv-learn.com)
 
 ## 📫 Contacts
