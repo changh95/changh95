@@ -6,7 +6,7 @@
 - **Computer Vision**
   - Multiple view geometry, Pose estimation, Deep features
 - **Deep Learning**
-  - Large language model (LLM), Visual language model (VLM)  
+  - Large language model (LLM), Visual language model (VLM), Visual language action model (VLA)
 - **Compute Hardware**
   - Graph processors, SIMD, RISC-V
 
