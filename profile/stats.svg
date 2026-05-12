@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hyunggi Chang's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 2968, Total Commits  (last year) : 281, Total PRs: 56, Total Issues: 144, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 2971, Total Commits  (last year) : 281, Total PRs: 56, Total Issues: 144, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 64.96730280716795;
+        stroke-dashoffset: 64.96592451939551;
       }
     }
   
